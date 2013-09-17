@@ -1,0 +1,13 @@
+c:\users\guicho\documents\visual studio 2010\Projects\PruebaNavegador\PruebaNavegador\bin\Debug\PruebaNavegador.exe
+c:\users\guicho\documents\visual studio 2010\Projects\PruebaNavegador\PruebaNavegador\bin\Debug\PruebaNavegador.pdb
+c:\users\guicho\documents\visual studio 2010\Projects\PruebaNavegador\PruebaNavegador\bin\Debug\Navegador.dll
+c:\users\guicho\documents\visual studio 2010\Projects\PruebaNavegador\PruebaNavegador\bin\Debug\Navegador.pdb
+c:\users\guicho\documents\visual studio 2010\Projects\PruebaNavegador\PruebaNavegador\obj\x86\Debug\PruebaNavegador.Form1.resources
+c:\users\guicho\documents\visual studio 2010\Projects\PruebaNavegador\PruebaNavegador\obj\x86\Debug\PruebaNavegador.Properties.Resources.resources
+c:\users\guicho\documents\visual studio 2010\Projects\PruebaNavegador\PruebaNavegador\obj\x86\Debug\PruebaNavegador.csproj.GenerateResource.Cache
+c:\users\guicho\documents\visual studio 2010\Projects\PruebaNavegador\PruebaNavegador\obj\x86\Debug\PruebaNavegador.exe
+c:\users\guicho\documents\visual studio 2010\Projects\PruebaNavegador\PruebaNavegador\obj\x86\Debug\PruebaNavegador.pdb
+c:\users\guicho\documents\visual studio 2010\Projects\PruebaNavegador\PruebaNavegador\obj\x86\Debug\PruebaNavegador.csprojResolveAssemblyReference.cache
+C:\Users\Guicho\Documents\Visual Studio 2010\Projects\PruebaNavegador\PruebaNavegador\obj\x86\Debug\PruebaNavegador.Form2.resources
+C:\Users\Guicho\Documents\Visual Studio 2010\Projects\PruebaNavegador\PruebaNavegador\bin\Debug\ODBCConnect.dll
+C:\Users\Guicho\Documents\Visual Studio 2010\Projects\PruebaNavegador\PruebaNavegador\bin\Debug\ODBCConnect.pdb
